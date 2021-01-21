@@ -2,7 +2,7 @@
 
 Dependacy
 * requests
-* json
+* fire
 
 To install dependencies run following line your favorite shell console
 
